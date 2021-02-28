@@ -18,3 +18,21 @@
 2021-02-28 13:43:19,335 - Search text: 王者荣耀
 2021-02-28 13:43:25,596 - Click the search button.
 2021-02-28 13:43:30,604 - Automation test Baidu search UI automation test. finish!
+2021-02-28 15:25:57,766 - Load properties file:/Users/willcheng/Desktop/jenkins_auto/jenkins_selenium/iSelenium/src/test/resources/iselenium.properties
+2021-02-28 15:25:57,768 - /Users/willcheng/Users/willcheng/Desktop/jenkins_auto/jenkins_selenium/iSelenium/src/test/resources/iselenium.properties (No such file or directory)
+2021-02-28 15:25:57,768 - Load config file fail, please check /Users/willcheng to confirm if the /Users/willcheng/Desktop/jenkins_auto/jenkins_selenium/iSelenium/src/test/resources/iselenium.properties file exist!
+2021-02-28 15:25:57,768 - Load webdriver path
+2021-02-28 15:25:57,769 - firefoxPath = null
+2021-02-28 15:25:57,769 - chromePath = null
+2021-02-28 15:25:57,770 - Current browser is firefox
+2021-02-28 15:25:57,775 - Automation test  finish!
+2021-02-28 15:27:38,458 - Load properties file:/Desktop/jenkins_auto/jenkins_selenium/iSelenium/src/test/resources/iselenium.properties
+2021-02-28 15:27:38,462 - Load webdriver path
+2021-02-28 15:27:38,462 - firefoxPath = /opt/WebDriver/bin/geckodriver
+2021-02-28 15:27:38,463 - chromePath = /opt/WebDriver/bin/chromedriver
+2021-02-28 15:27:38,464 - Current browser is firefox
+2021-02-28 15:27:42,632 - Start the automation test: Baidu search UI automation test.
+2021-02-28 15:27:42,633 - Open the www.baidu.com
+2021-02-28 15:27:51,768 - Search text: 今日头条
+2021-02-28 15:27:58,071 - Click the search button.
+2021-02-28 15:28:03,090 - Automation test Baidu search UI automation test. finish!

@@ -13,7 +13,7 @@ import java.util.Properties;
 
 public abstract class WebUIBase {
     private Logger logger = Logger.getLogger(WebUIBase.class);
-    private String propFileName = "/Desktop/jenkins_auto/iSelenium_test/src/test/resources/iselenium.properties";
+    private String propFileName = "/Desktop/jenkins_auto/jenkins_selenium/iSelenium/src/test/resources/iselenium.properties";
 
     protected String testcaseName = "";
     protected String curBrowser = "firefox"; //默认浏览器是firefox
